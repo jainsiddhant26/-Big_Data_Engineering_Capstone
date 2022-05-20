@@ -1,0 +1,1 @@
+sqoop import-all-tables --connect jdbc:mysql://ip-10-1-1-204.ap-south-1.compute.internal:3306/anabig114240 --username anabig114240 --password Bigdata123 --compression-codec=snappy --as-avrodatafile --warehouse-dir /user/anabig114240/Capstone --m 1 --driver com.mysql.jdbc.Driver
