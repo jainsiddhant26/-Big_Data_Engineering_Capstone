@@ -1,4 +1,4 @@
-# Big Data Engineering Capstone
+# Big Data Engineering Capstone Project
 
 ## Business Scenario
 
