@@ -13,11 +13,11 @@ Generation of data model from the data provided. Creation of database & tables i
 The entire data is contained in the /csv folder which contains a total of 6 files:
 
 - titles.csv -> This file contains the different job titles of the employees.
-- employees.csv -> Contains all data related to each employee, such as employee id, name, age,sex, date of hiring, etc.
+- employees.csv -> Contains all data related to each employee, such as employee id, name, age, sex, date of hiring, etc.
 - salaries.csv -> contains salary of each employee.
 - departments.csv -> enlists the various departments in the company.
 - dept_manager.csv -> indicates which employee manages which department.
-- dept_emp.csv -> indicates wich department each employee belongs to.
+- dept_emp.csv -> indicates which department each employee belongs to.
 
 ## Data Flow Description
 
