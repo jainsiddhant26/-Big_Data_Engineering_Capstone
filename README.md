@@ -27,7 +27,6 @@ The entire data is contained in the /csv folder which contains a total of 6 file
 - HDFS (copyFromLocal) we transferred Avro Schema files to hdfs 
 - We created Hive tables and loaded Avro files data into it
 - Then using Hive tables we performed EDA in Impala and Spark SQL
-- Using Pyspark Dataframes we did ML Model Building 
-- And created ML Pipelines
+- Using Pyspark Dataframes we did ML Model Building
 
 
